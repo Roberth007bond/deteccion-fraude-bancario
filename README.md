@@ -29,13 +29,13 @@ Los bancos pierden millones anuales por fraude en tarjetas de crédito. El reto 
 ## 📈 Visualizaciones
 
 ### 1. Distribución de clases y montos
-![Distribución](graficas/01_distribucion_clases.png)
+![Distribución](01_distribucion_clases.png)
 
 ### 2. Análisis temporal y correlaciones
-![Temporal](graficas/02_analisis_temporal_correlacion.png)
+![Temporal](02_analisis_temporal_correlacion.png)
 
 ### 3. Resultados del modelo
-![Modelo](graficas/03_resultados_modelo.png)
+![Modelo](03_resultados_modelo.png)
 
 ---
 
